@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "src": "/templates/model1.jpeg"
+    },
+    {
+        "id": 2,
+        "src": "/templates/model2.jpeg"
+    },
+    {
+        "id": 3,
+        "src": "/templates/model3.jpeg"
+    },
+    {
+        "id": 4,
+        "src": "/templates/model4.jpeg"
+    },
+    {
+        "id": 5,
+        "src": "/templates/model5.jpeg"
+    },
+    {
+        "id": 6,
+        "src": "/templates/model6.jpeg"
+    },
+    {
+        "id": 7,
+        "src": "/templates/model7.jpeg"
+    }
+]

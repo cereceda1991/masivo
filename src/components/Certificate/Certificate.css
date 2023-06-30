@@ -1,0 +1,123 @@
+.container_certificate {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    min-height: 100vh;
+    padding: 1rem;
+}
+
+.content_certificate {
+    display: flex;
+    flex-direction: column;
+    width: 792px;
+    height: 612px;
+    padding: 2rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    justify-content: center;
+    text-align: center;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.content_title {
+    padding: .3rem;
+    background-color: red;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.content__input-company {
+    margin-top: 1rem;
+    font-size: 1.8rem;
+    margin-bottom: .5rem;
+    text-align: center;
+    border: none;
+    font-weight: 800;
+    background-color: transparent;
+}
+
+.content__label {
+    font-size: 1rem;
+}
+
+.content__input-name {
+    font-size: 1.3rem;
+    width: 100%;
+    text-align: center;
+    border: none;
+    background-color: transparent;
+    margin-top: .5rem;
+    font-weight: 600;
+}
+
+.director__presidente {
+    display: flex;
+    justify-content: space-around;
+    font-size: .7rem;
+    gap: 1rem;
+}
+
+.director__presidente div {
+    display: flex;
+    flex-direction: column;
+    gap: .4rem;
+}
+
+.info__section {
+    padding: 1rem;
+    display: flex;
+    font-size: 1rem;
+}
+
+.content__carreer {
+    border: none;
+    margin-right: .2rem;
+    width: auto;
+    padding: 0;
+    margin: 0;
+    font-weight: 600;
+    font-size: 1rem;
+    font-family: inherit;
+    text-align: center;
+}
+
+.content__instance {
+    max-width: 24px;
+    text-align: center;
+    border: none;
+    font-size: 1rem;
+    background-color: transparent;
+    font-weight: 600;
+
+}
+
+.content__paragraph {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    text-indent: 3rem;
+    font-family: inherit;
+    overflow-wrap: break-word;
+    hyphens: auto;
+    word-wrap: break-word;
+    text-align: center;
+}
+
+
+.content__ceo {
+    text-align: center;
+    background-color: transparent;
+    border: none;
+    font-family: inherit;
+    text-decoration: underline;
+    font-size: 1rem;
+}
+
+.content__cto {
+    text-align: center;
+    border: none;
+    text-decoration: underline;
+    font-size: 1rem;
+    background-color: transparent;
+
+}
